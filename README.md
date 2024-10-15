@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **umumararunguganzadarlene@gmail.com**
 
-- ⚡ Fun fact **Quite a good at drawing😜**
+- ⚡ Fun fact **Quite a good at drawing😜 and a polyglot**
 
 <h3 align="left">Let's connect please!:</h3>
 <p align="left">
