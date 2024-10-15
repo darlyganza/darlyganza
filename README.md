@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm GANZA Darlene</h1>
+<h1 align="center">Hello everyone, I'm GANZA Darlene</h1>
 <h3 align="center">Enthusiastic Fullstack developer; All the way from Rwanda</h3>
 
 <p align="left"> <a href="https://twitter.com/ganzadarly" target="blank"><img src="https://img.shields.io/twitter/follow/ganzadarly?logo=twitter&style=for-the-badge" alt="ganzadarly" /></a> </p>
 
 - 🌱 I’m currently learning **Django, Java**
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C, C++, Java, PHP, MYSQL database**
 
 - 📫 How to reach me **umumararunguganzadarlene@gmail.com**
 
