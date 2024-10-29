@@ -5,14 +5,11 @@
 
 - 🌱 I’m currently learning ** cpp, 3D modelling with blender, UI/UX design, OOP with JAVA **
 
-- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C, C++, Java, PHP, MYSQL database**
+- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database**
 
 - 📫 How to reach me **umumararunguganzadarlene@gmail.com**
 
-- ⚡ Fun fact **Quite a good at drawing😜 and a polyglot:
---안녕하세요--
--- Nǐ hǎo --**6
-**
+- ⚡ Fun fact **Quite a good at drawing😜 and a polyglot:**
 
 <h3 align="left">Let's connect please!:</h3>
 <p align="left">
