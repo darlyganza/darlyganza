@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganzadarly" target="blank"><img src="https://img.shields.io/twitter/follow/ganzadarly?logo=twitter&style=for-the-badge" alt="ganzadarly" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Java**
+- 🌱 I’m currently learning ** cpp, 3D modelling with blender, UI/UX design, OOP with JAVA **
 
 - 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C, C++, Java, PHP, MYSQL database**
 
