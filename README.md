@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ganzadarly" target="blank"><img src="https://img.shields.io/twitter/follow/ganzadarly?logo=twitter&style=for-the-badge" alt="ganzadarly" /></a> </p>
 
-- 🌱 I’m currently learning ** cpp, 3D modelling with blender, UI/UX design, JAVA **
+- 🌱 I’m currently learning ** cpp, 3D modelling with blender, UI/UX design, JAVA, Python **
 
-- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database**
+- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database, Reactjs, Vanilla javascript, postgresql, mongodb**
 
 - 📫 How to reach me **umumararunguganzadarlene@gmail.com**
 
