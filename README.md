@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone🤗, I'm GANZA Darlene</h1>
-<h3 align="center">Enthusiastic Fullstack developer; All the way from Rwanda💖</h3>
+<h3 align="center">Enthusiastic Fullstack web application developer and UI/UX design enthusiast; All the way from Rwanda💖</h3>
 
 <p align="left"> <a href="https://twitter.com/ganzadarly" target="blank"><img src="https://img.shields.io/twitter/follow/ganzadarly?logo=twitter&style=for-the-badge" alt="ganzadarly" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database, Reactjs, Vanilla javascript, postgresql, mongodb**
 
-- 📫 How to reach me **umumararunguganzadarlene@gmail.com**
+- 📫 How to reach me **umumararunguganzadarlene@gmail.com, darlyganza@gmail.com**
 
-- ⚡ Fun fact **Quite a good at drawing😜 and a polyglot:**
+- ⚡ Fun fact **Quite a good at drawing😜, designing and a polyglot:**
 
-<h3 align="left">Let's connect please!:</h3>
+<h3 align="left">Connect with me please!:</h3>
 <p align="left">
 <a href="https://dev.to/toondari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="toondari" height="30" width="40" /></a>
 <a href="https://twitter.com/ganzadarly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganzadarly" height="30" width="40" /></a>
