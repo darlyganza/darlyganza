@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** cpp, 3D modelling with blender, UI/UX design, JAVA, Python **
 - 👩‍💻 Currently developing "💫 Vitalidad prototype"
-- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database, Reactjs, Vanilla javascript, postgresql, mongodb**
+- 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database,postgreSQL, java script, mongodb**
 
 - 📫 How to reach me **umumararunguganzadarlene@gmail.com, darlyganza@gmail.com**
 
