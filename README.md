@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me please!:</h3>
 <p align="left">
-<a href="https://dev.to/toondari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="toondari" height="30" width="40" /></a>
 <a href="https://twitter.com/ganzadarly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganzadarly" height="30" width="40" /></a>
 <a href="https://kaggle.com/darlyganza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darlyganza" height="30" width="40" /></a>
 <a href="https://fb.com/toondari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toondari" height="30" width="40" /></a>
