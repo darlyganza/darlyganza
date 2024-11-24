@@ -7,9 +7,9 @@
 - 👩‍💻 Currently developing "💫 Vitalidad prototype"
 - 💬 Ask me about **Node.js, HTML, CSS, Bootstrap, Tailwind css, C,, Java, PHP, MYSQL database,postgreSQL, java script, mongodb**
 
-- 📫 How to reach me **umumararunguganzadarlene@gmail.com, darlyganza@gmail.com**
+- 📫 How to reach me **umumararunguganzadarlene@gmail.com**
 
-- ⚡ Fun fact **Quite a good at drawing😜, designing:**
+<!--- ⚡ Fun fact **Quite a good at drawing😜, designing:**-->
 
 <!--<h3 align="left">Connect with me please!:</h3>
 <p align="left">
