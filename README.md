@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone🤗, I'm GANZA Darlene</h1>
-<h3 align="center">Enthusiastic Fullstack web application developer and UI/UX design enthusiast; All the way from Rwanda💖</h3>
+<h3 align="center">Enthusiastic Fullstack web application developer and Designer; All the way from Rwanda💖</h3>
 
 <p align="left"> <a href="https://twitter.com/ganzadarly" target="blank"><img src="https://img.shields.io/twitter/follow/ganzadarly?logo=twitter&style=for-the-badge" alt="ganzadarly" /></a> </p>
 
